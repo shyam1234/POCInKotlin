@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">POC</string>
+    <string-array name="localization">
+        <item name="msg_welcome">Hello World!</item>
+        <item name="msg_india">Hello India!</item>
+    </string-array>
+    <string-array name="localization_key">
+        <item>msg_welcome</item>
+        <item>msg_india</item>
+    </string-array>
+</resources>
